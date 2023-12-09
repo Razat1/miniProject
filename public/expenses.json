@@ -1,0 +1,33 @@
+
+{
+  "categories": [
+    {
+      "name": "Grocery",
+      "transactions": [
+        { "date": "2023-01-01", "amount": "£50", "name": "Grocery 1" },
+        { "date": "2023-01-02", "amount": "£30", "name": "Grocery 2" }
+      ]
+    },
+    {
+      "name": "Food",
+      "transactions": [
+        { "date": "2023-01-03", "amount": "£20", "name": "Pancakes" },
+        { "date": "2023-01-04", "amount": "£40", "name": "Pizza" }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "transactions": [
+        { "date": "2023-01-05", "amount": "£100", "name": "Clothes" },
+        { "date": "2023-01-06", "amount": "£80", "name": "Shoes" }
+      ]
+    },
+    {
+      "name": "Other",
+      "transactions": [
+        { "date":  "2023-09-12", "amount":  "£25", "name":  "Miscellaneous 1"},
+        { "date":  "2023-09-11", "amount":  "£10", "name":  "Miscellaneous 2"}
+      ]
+    }
+  ]
+}
