@@ -1,4 +1,3 @@
-// transactions.js
 export const calculateTotalAmount = (categories) => {
     return categories.reduce((total, category) => {
         return total + category.transactions.reduce((categoryTotal, transaction) => {

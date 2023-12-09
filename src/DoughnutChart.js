@@ -1,4 +1,3 @@
-// src/components/DoughnutChart.js
 import React, { useEffect, useRef } from 'react';
 
 const DoughnutChart = ({ data, onCategoryClick }) => {
